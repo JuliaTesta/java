@@ -1,0 +1,25 @@
+package application;
+
+import java.util.Currency;
+import java.util.Locale;
+import java.util.Scanner;
+
+import entities.CurrencyConverter;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		Currency dolar = new CurrencyConverter();
+		
+		
+		System.out.printf("What is the dollar price? ", args)
+		
+		
+		sc.close();
+
+	}
+
+}

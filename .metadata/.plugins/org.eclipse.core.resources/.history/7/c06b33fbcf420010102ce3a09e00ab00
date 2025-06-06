@@ -1,0 +1,10 @@
+package entities;
+
+public class CurrencyConverter {
+
+		public static double imp = 0.06;
+		
+		public static double calculator(double dollarPrice, double amount) {
+				return (dollarPrice*amount) - (imp*amount);
+		}
+}

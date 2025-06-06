@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\roger\OneDrive\Área de Trabalho\Julia- ADS\java\.metadata\.plugins\org.eclipse.jdt.core
+3830320319.index
+171994515.index
+1865797976.index
+1353614557.index
+2049612060.index
+2471050281.index
