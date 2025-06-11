@@ -12,7 +12,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		//informations-----------------------------------------------
+		//informations---------------------------------------------------
 		System.out.println("Enter account number: ");
 		int accountNumber = sc.nextInt();
 		
@@ -51,19 +51,19 @@ public class Program {
 		System.out.println();
 			
 		System.out.printf("Enter a deposit value: ");
-		double amount = sc.nextDouble();
+		double money = sc.nextDouble();
 		
 		System.out.println();		
 		
 		System.out.println("Update account data: ");
-		bank.deposit(amount);
+		bank.deposit(money);
 		System.out.println(bank);
 		
 		System.out.println();		
 		
 		System.out.printf("Enter a withdraw value: ");
-		amount = sc.nextDouble();
-		bank.withdraw(amount);
+		money = sc.nextDouble();
+		bank.withdraw(money);
 		System.out.println(bank);
 		
 		
