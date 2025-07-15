@@ -1,14 +1,24 @@
 INDEX VERSION 1.134+C:\Users\roger\OneDrive\Área de Trabalho\Julia- ADS\2Semestre\java\.metadata\.plugins\org.eclipse.jdt.core
+2344699479.index
+237290916.index
+2203971398.index
 3830320319.index
 171994515.index
 374704390.index
 2405226684.index
 221096330.index
 3810773158.index
+741550430.index
 2471050281.index
+2804971279.index
 1632811408.index
 2485450800.index
 1353614557.index
 4146172809.index
+2022661948.index
+1791692690.index
+4168442406.index
+1039827368.index
 1865797976.index
 2049612060.index
+2662812810.index
