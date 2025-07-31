@@ -11,7 +11,7 @@ public class Program {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		Rent[] vect = new Rent[10];
+		Rent[] vect = new Rent[10]; //criando um vetor do tipo rent com 10 posicoes 
 		
 		System.out.print("How many rooms will be rented? ");
 		int n = sc.nextInt();
@@ -31,9 +31,9 @@ public class Program {
 			int roomNumber = sc.nextInt();
 			sc.nextLine();
 			
-			Rent rent = new Rent(name, email);
+			Rent rent = new Rent(name, email); //isso é para criar o obejto real, com nome e email
 			
-			vect[roomNumber] = rent;
+			vect[roomNumber] = rent; //vai guardar um rent no vetor do numero tal do quarto
 		}
 		
 		System.out.println("Busy rooms:\n ");
@@ -41,9 +41,8 @@ public class Program {
 			if(vect[i]!= null) {
 				System.out.println(i + ": " + vect[i]);
 			}
-		}	
+		}
+		
 		sc.close();
-
 	}
-
 }
