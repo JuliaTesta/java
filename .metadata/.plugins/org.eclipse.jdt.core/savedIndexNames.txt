@@ -9,11 +9,13 @@ INDEX VERSION 1.134+C:\Users\roger\OneDrive\Área de Trabalho\Julia- ADS\2Semest
 741550430.index
 1353614557.index
 374704390.index
+40833721.index
 237290916.index
 2049612060.index
 2485450800.index
 2471050281.index
 2405226684.index
+233554903.index
 901628346.index
 221096330.index
 2022661948.index
