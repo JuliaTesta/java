@@ -82,8 +82,8 @@ public class Loja {
 						break;
 						
 					case 4: 
-						if(contador > 0) {
-							Produto maisCaro = produtos[0];
+						if(contador > 0) { //tem mais de um produto
+							Produto maisCaro = produtos[0]; //fixa no primeiro
 							
 							for(int i=1; i<contador; i++) {
 								if(produtos[i].getPreco() > maisCaro.getPreco()) {
